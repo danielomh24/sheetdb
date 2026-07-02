@@ -1,0 +1,1 @@
+SheetDB no depende de una tecnología específica. Depende de contratos (interfaces).

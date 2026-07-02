@@ -1,0 +1,22 @@
+{
+  "name": "sheetdb",
+  "version": "1.0.0",
+  "description": "Spreadsheet persistance engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel Monroy",
+  "license": "MIT",
+  "type": "module",
+  "private": "true",
+  "devDependencies": {
+    "@types/node": "^26.1.0",
+    "eslint": "^10.6.0",
+    "prettier": "^3.9.4",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3",
+    "vitest": "^4.1.9"
+  }
+}
